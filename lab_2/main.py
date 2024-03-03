@@ -1,5 +1,5 @@
 from graphviz import Digraph
-
+#Variant 13
 class StateMachine:
     def __init__(self, state_set, symbols, transitions, initial, finals):
         self.state_set = state_set
